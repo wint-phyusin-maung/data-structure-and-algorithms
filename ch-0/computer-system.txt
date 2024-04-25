@@ -1,0 +1,12 @@
+memory 
+
+-> read only memory
+-> second memory (non-volatile memory)
+-> main memory or primary memory or RAM (the working memory of a computer system) / (volatile memory)
+ 
+
+Memory Measurement Units (measure with bit, byte, KB, MB, GB, TB)
+
+- Byte -> 1 byte(8 bits)
+- KB(kilobyte) -> 1KB(1024 (2^10)) Byte
+- MB(megabytes) -> 1MB
