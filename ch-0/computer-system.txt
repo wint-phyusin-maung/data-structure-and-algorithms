@@ -9,4 +9,6 @@ Memory Measurement Units (measure with bit, byte, KB, MB, GB, TB)
 
 - Byte -> 1 byte(8 bits)
 - KB(kilobyte) -> 1KB(1024 (2^10)) Byte
-- MB(megabytes) -> 1MB
+- MB(megabytes) -> 1MB(1024 (2^10)) KB
+- GB(gigabytes) -> 1GB(1024 (2^10)) MB
+- TB(terabytes) -> 1TB(1024 (2^10)) GB
