@@ -1,0 +1,3 @@
+Computer System
+
+input -> processing(cpu) -> output
